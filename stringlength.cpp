@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-  char str[100];
+  string str;
 
   cout<<"enter a string :";
 
